@@ -1,5 +1,5 @@
 # string-format-easy
-String.format function for javascript from [luci2](https://git.openwrt.org/?p=project/luci2/ui.git).
+String.format function for javascript modified from [luci2](https://git.openwrt.org/?p=project/luci2/ui.git).
 
 # Code Example
 %d
